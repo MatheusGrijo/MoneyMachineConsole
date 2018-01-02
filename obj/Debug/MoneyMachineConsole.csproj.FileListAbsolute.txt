@@ -1,8 +1,0 @@
-C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\obj\Debug\MoneyMachineConsole.csprojResolveAssemblyReference.cache
-C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\bin\Debug\MoneyMachineConsole.exe.config
-C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\bin\Debug\MoneyMachineConsole.exe
-C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\bin\Debug\MoneyMachineConsole.pdb
-C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\obj\Debug\MoneyMachineConsole.exe
-C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\obj\Debug\MoneyMachineConsole.pdb
-C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\bin\Debug\Newtonsoft.Json.pdb
-C:\Users\mifus_000\Desktop\Poloniex\MoneyMachine\MoneyMachineConsole\bin\Debug\Newtonsoft.Json.xml

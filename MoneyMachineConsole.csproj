@@ -58,7 +58,6 @@
   <ItemGroup>
     <Compile Include="Database.cs" />
     <Compile Include="Http.cs" />
-    <Compile Include="Key.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="MyOperation.cs" />
     <Compile Include="ReturnBalances.cs" />

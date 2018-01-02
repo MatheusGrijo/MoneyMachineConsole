@@ -22,7 +22,8 @@ public class MyOperation
 				return returnTicker.BTC_LTC.last;
 		}
 		
-		String _rate = rate.Replace(".",",");
+		 String _rate = rate.Replace(".",",");
+		 _rate = _rate;
 		_rate = Convert.ToString( ((double.Parse(_rate) * Key.fee) / 100) + double.Parse(_rate) + ((double.Parse(_rate) * Key.profit) / 100)).Replace(",",".");
 		if(_rate.Length > 10)
 			_rate = _rate.Substring(0,10);
